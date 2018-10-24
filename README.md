@@ -1,7 +1,7 @@
 # HallmarkUniversity
 All programming, scripting, and misc IT files from Hallmark University
 
-### Info
+## Info
 **Study:** 
 - Bachelors of Science in Information Systems
 - Bachelors of Science in Cybersecurity
